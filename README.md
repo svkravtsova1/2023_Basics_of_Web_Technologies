@@ -1,3 +1,6 @@
 # 2023_Basics_of_Web_Technologies
 
-задание 1 - result
+# Задание 1.1 - index.html
+# Задание 1.2 - passport.html 
+
+
