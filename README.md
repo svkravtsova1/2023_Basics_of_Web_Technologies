@@ -4,8 +4,8 @@
 <br> Задание 1.2 - passport.html + (результат с изображениями - result_passport)
 
 Работа на лекциях и семинарах:
-<br> <li> function </li>
-<br> <li> lection 2 </li>
+<li> function </li>
+<li> lection 2 </li>
 
 
 
