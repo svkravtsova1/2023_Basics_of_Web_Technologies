@@ -1,7 +1,7 @@
 # 2023_Basics_of_Web_Technologies
 
-Задание 1.1 - index.html
-<br> Задание 1.2 - passport.html + (результат с изображениями - result_passport)
+Задание 1.1 - <b>index.html</b>
+<br> Задание 1.2 - <b>passport.html</b> + (результат с изображениями - <b>result_passport</b>)
 
 Работа на лекциях и семинарах:
 <li> function </li>
