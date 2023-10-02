@@ -2,6 +2,7 @@
 
 Задание 1.1 - <b>index.html</b>
 <br> Задание 1.2 - <b>passport.html</b> + (результат с изображениями - <b>result_passport</b>)
+<br> Задание 1.3 - <b>passport_1.html</b> + (результат с изображениями - <b>result_passport_1</b>)
 
 Работа на лекциях и семинарах:
 <li> function </li>
