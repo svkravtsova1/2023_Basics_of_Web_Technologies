@@ -10,4 +10,4 @@
 <li> function </li>
 <li> lection 2 </li>
 
-### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/
+### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/table1.html
