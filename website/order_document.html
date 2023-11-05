@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Оформление заказа</title>
+</head>
+
+<body bgcolor="#F1E7E8">
+<h1 align="center"><font face="candara" size="7"><img src="../images/g6.png" height="70" width="90" align="left" style="position: relative;"><a onclick="window.open('main.html','_self');"style="cursor:pointer">Типография "Photo Factory"</a><img src="../images/g6.png" height="70" width="90" align="right" style="position: relative;"></font></h1>
+<font face="candara" size="5">
+<table bgcolor="#979E78">
+        <tr align="center">
+            <td height="70" width="330"><a onclick="window.open('main.html','_self');"style="cursor:pointer" title="Нажмите, чтобы перейти в раздел">ГЛАВНАЯ</a></td>
+            <td width="330"><a onclick="window.open('photo.html','_self');"style="cursor:pointer" title="Нажмите, чтобы перейти в раздел">ФОТО</a></td>
+            <td width="330"><a onclick="window.open('document.html','_self');"style="cursor:pointer" title="Нажмите, чтобы перейти в раздел">ДОКУМЕНТЫ</a></td>
+            <td width="330"><a onclick="window.open('album.html','_self');"style="cursor:pointer" title="Нажмите, чтобы перейти в раздел">ФОТОКНИГИ</a></td>
+            <td width="330"><a onclick="window.open('suvenir.html','_self');"style="cursor:pointer" title="Нажмите, чтобы перейти в раздел">СУВЕНИРЫ</a></td>
+        </tr>
+</table>
+</font>
+
+
+<font face="candara" size="5">
+<h2 align="center">Оформление заказа "Печать документов"</h2>
+</font>
+
+<font face="candara" size="5">
+<form action="https://www.bing.com/" id="UserEnter" name="UserEnter" target="_blank"
+<table align="center" cellpadding="20" cellspacing="30" background="../images/paper.jpg">
+    <tbody>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <p>Ваше имя: <input type="text" name="name" placeholder="Имя"></p>
+                <p>Ваша фамилия: <input type="text" id="surname" placeholder="Фамилия"></p>
+                <p>Ваш email: <input type="email" name="email" placeholder="Email@.com"></p>
+                <p>Номер Вашего телефона: <input type="text" name="number" placeholder="+7 900 000 00 00"></p>
+                <p>Дата рождения: <input type="date" name="date" placeholder="00.00.00"></p>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <br><p>Выберите размер листов бумаги:</p>
+                <select name="type_of_paper">
+                    <option value="1">А3 (297х420 мм)</option>
+                    <option value="2">А4 (210x297 мм)</option>
+                    <option value="3">А5 (148x210 мм)</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <br><p for="format">Выберите формат и цвет печати: </p>
+                <hr size="2" color="#979E78">
+                <br><input type="radio" name="form" value="bw1" checked> Чёрно-белая односторонняя
+                <br><input type="radio" name="form" value="bw2"> Чёрно-белая двусторонняя
+                <br><input type="radio" name="form" value="color1"> Цветная односторонняя
+                <br><input type="radio" name="form" value="color2"> Цветная двусторонняя
+                <br><input type="radio" name="form" value="comb"> Комбинированная
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <br><p>Выберите тип бумаги: </p>
+                <hr size="2" color="#979E78">
+                <br><input type="radio" name="paper" value="offset" checked> Офсетная
+                <br><input type="radio" name="paper" value="newspaper"> Газетная
+                <br><input type="radio" name="paper" value="copied"> Самокопирующаяся
+                <br><input type="radio" name="paper" value="chalk"> Мелованная
+                <br><input type="radio" name="paper" value="design"> Дизайнерская
+                <br><input type="radio" name="paper" value="craft"> Крафтовая
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <p>Выберите количество копий:
+                <input type="number" name="number" size="30" value="0">
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <p>Дополнительные комментарии к заказу:
+                <br><textarea cols="80" rows="3" name="textarea" placeholder="Комментарии при необходимости"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <p>Загрузите документ или папку с документами: </p>
+                <br><input type="file" name="files" value="Загрузите файлы">
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#F1E7E8">
+                <br><p>Выберите город для доставки: </p>
+                <hr size="2" color="#979E78">
+                <br><input type="radio" name="city" value="Moscow"> Москва
+                <br><input type="radio" name="city" value="Peterburg"> Санкт-Петербург
+                <br><input type="radio" name="city" value="Nizhniy"> Нижний Новгород
+                <br><input type="radio" name="city" value="Kazan"> Казань
+                <br><input type="radio" name="city" value="Eburg"> Екатеринбург
+                <br><input type="radio" name="city" value="Another"> Другой город
+                <input type="text" id="сity" name="city" placeholder="Город">
+                <p></p>
+                <p>Адрес доставки:</p>
+                <input type="text" name="address" placeholder="Адрес">
+                <p></p>
+                <p>Дополнительные комментарии к доставке:
+                <br><textarea cols="80" rows="3" name="textarea" placeholder="Комментарии при необходимости"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#F1E7E8">
+                <br><input type="submit" name="submit" value="Сделать заказ">
+                <input type="reset" name="reset" value="Сбросить выбор">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</form>
+</font>
+
+
+
+
+</body>
+</html>
