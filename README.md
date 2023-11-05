@@ -9,8 +9,14 @@
 Задание 4.1 - <b>table1.html</b> + (скриншот рабочего пространства с расположением файлом с изображениями - <b>screenshot_table.png</b>
 <br>Задание 4.2 - <b>table2.html</b> + (скриншот рабочего пространства с расположением файлом с изображениями - <b>screenshot_table2.png</b>
 <p></p>
+
+### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/
+
 Работа на лекциях и семинарах:
 <li> function </li>
 <li> lection 2 </li>
 
-### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/
+<h1>Сайт:</h1>
+
+### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/website/main.html
+
