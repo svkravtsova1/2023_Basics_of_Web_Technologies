@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Алгоритмическая задача</title>
+</head>
+<body>
+
+<table border="3" cellpadding="15" cellspacing="5" align="center">
+    <tr>
+        <td align="center">
+            Страница, содержащая вторую и третью страницы паспорта<br><a href="web.html" target="_self">Считываем информацию из DOM_JS</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="passport_web.html" target="_blank">Изменяем кириллицу на латиницу по клику</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="algo_task.html" target="_blank">Решение алгоритмической задачи</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="algo_task2.html" target="_blank">Решение алгоритмической задачи: форма</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Задача (1010). Принадлежит ли число X заданному промежутку [A, B] (учитывая, что в промежутке: A <= B)? Если принадлежит - отправить все на сервер</p>
+            <form action="https://www.bing.com/search?" id="UserEnter" name="UserEnter" target="_blank">
+                <ul type="square">
+                    <li>Для поисковика<input name="q" value="search"></li>
+                    <li>Формулировка задачи: <input name="formul" value="Принадлежит ли число X заданному промежутку [A, B]? Если принадлежит - отправить все на сервер"></li>
+                    <li>x: <input id="x" name="x" type="number" value="10"></li>
+                    <li>a: <input id="a" name="a" type="number" value="10"></li>
+                    <li>b: <input id="b" name="b" type="number" value="10"></li>
+                    <li>Результат решения: <input name="result" value="не определён"></li>
+                    <li>Действие 1: <input id="verify" type="button" value="Проверить"></li>
+                    <li>Действие 2: <input id="send" type="button" value="Отправить"></li>
+                </ul>
+            </form>
+            <p id="result">Результат: </p>
+        </td>
+    </tr>
+</table>
+
+<script src="../JS/algo_task2.js"></script>
+
+</body>
+</html>
+
