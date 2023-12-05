@@ -79,18 +79,19 @@ h4 {
 .go {
     margin-top: 20px;
     margin-left: 20px;
-    margin-right: 1200px;
+    width: 300px;
     font-weight: bold;
     border: 2px solid black;
     border-radius: 15px;
     background-color: #a8dadc;
-    padding: 10px;
+    padding: 9px;
 }
 
 .return {
     margin-top: 20px;
     margin-left: 20px;
-    margin-right: 1200px;
+    width: 300px;
+    font-weight: bold;
     border: 2px solid black;
     border-radius: 15px;
     background-color: #a8dadc;
