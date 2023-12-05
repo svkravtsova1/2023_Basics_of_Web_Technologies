@@ -1,0 +1,75 @@
+body {
+    font-family: Courier New;
+    background-color: #f5ebe0;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: left;
+    font-weight: bold;
+    color: black;
+}
+
+nav {
+    font-size: 20px;
+    background-color: #a8dadc;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.form-head {
+    margin-left: 0px;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+h4 {
+    font-weight: bold;
+    text-align: left;
+    color: black;
+}
+
+.body_1 {
+    font-weight: bold;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.return {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 1200px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #a8dadc;
+    padding: 9px;
+}
+
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 10px;
+    border: 2px solid #a8dadc;
+}
+
+

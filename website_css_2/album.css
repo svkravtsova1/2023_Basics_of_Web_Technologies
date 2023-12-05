@@ -1,0 +1,110 @@
+body {
+    font-family: Courier New;
+    background-color: #f5ebe0;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: left;
+    font-weight: bold;
+    color: black;
+}
+
+nav {
+    font-size: 20px;
+    background-color: #a8dadc;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+h4 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.container {
+    margin-left: 0px;
+}
+
+.albums {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+}
+
+.album {
+    margin-top: 30px;
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 16px;
+    padding: 11px;
+    background-color: #a8dadc;
+}
+
+.album-photo {
+    margin-left: 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.album-photo img {
+    width: 270x;
+    height: 270px;
+    border-radius: 16px;
+}
+
+.album-title {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.album-price {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.go {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 1200px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #a8dadc;
+    padding: 10px;
+}
+
+.return {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 1200px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #a8dadc;
+    padding: 9px;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 10px;
+    border: 2px solid #a8dadc;
+}
+
+
+
