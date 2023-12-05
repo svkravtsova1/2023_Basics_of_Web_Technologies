@@ -24,3 +24,7 @@
 
 ### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/website/web.html
 
+<h1><b>Сайт КР2:</b></h1>
+
+### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/website_2/main.html
+
