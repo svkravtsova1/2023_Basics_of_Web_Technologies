@@ -16,11 +16,11 @@
 <li> function </li>
 <li> lection 2 </li>
 
-<h1><b>Сайт:</b></h1>
+<h1><b>Сайт КР1:</b></h1>
 
 ### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/website/main.html
 
-<h1><b>Сайт c заданиями второй части (B и C):</b></h1>
+<h1><b>Сайт c заданиями второй части (B и C) КР1:</b></h1>
 
 ### https://svkravtsova1.github.io/2023_Basics_of_Web_Technologies/website/web.html
 
